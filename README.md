@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm currently working on all things CS, I'm a complete novice pretty much but I'm taking classes and studying various areas of CS in order to decide what I want to focus on as a career.
+<br>
+<br>
+I'm currently primarily focused on learning HTML, CSS, JS (web fundamentals). I am also spending time learning and engaging in: programming basics, HackTheBox, Windows/Server, Azure, VM's
+<br>
+<br>
+I'm looking to get my feet wet or collaborate on anything that will help grow my understanding and network in the CS world
+<br>
+<br>
+Reach out to me at: cheery.flame1618@fastmail.com
 <!--
 **falcn9/falcn9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
