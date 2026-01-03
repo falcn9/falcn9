@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-I'm currently working on all things CS, I'm a complete novice pretty much but I'm taking classes and studying various areas of CS in order to decide what I want to focus on as a career.
+I'm currently working towards a Computer Science bachelors degree. I have various interests in areas of CS. 
 <br>
 <br>
-I'm currently primarily focused on learning HTML, CSS, JS (web fundamentals). I am also spending time learning and engaging in: programming basics, HackTheBox, Windows/Server, Azure, VM's
+I'm currently primarily focused on learning HTML, CSS, JS (web fundamentals), cybersec, and programming. I am also spending time learning and engaging in: linux, HackTheBox, Windows/Server, Azure, VM's, SQL
 <br>
 <br>
-I'm looking to get my feet wet or collaborate on anything that will help grow my understanding and network in the CS world
+I'm looking to get my feet wet or collaborate on anything that will help grow my understanding and network in the CS world. I have discovered there is so much to learn and know that if you aren't constantly utilizing the newfound knowledge or skill it is surely to fade quickly due to the mountain of material to remember. 
 <br>
 <br>
-Reach out to me at: cheery.flame1618@fastmail.com
+Reach out to me at: cheery.flame1618@fastmail.com 
 <!--
 **falcn9/falcn9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
